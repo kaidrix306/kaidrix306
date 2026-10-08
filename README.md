@@ -2,28 +2,15 @@
 
 # `KAIDRIX`
 
-**Developer · Automation · Web &amp; Bot Projects**
+**Developer · Automation · Web & Bot Projects**
 
-```text
-kaidrix306@github ~ $ whoami
-KAIDRIX
+<img src="./wordmark.svg" width="100%" alt="KAIDRIX 3D ASCII wordmark" />
 
-kaidrix306@github ~ $ status
-[ online ]  [ building ]  [ automating ]
-```
-
-<table>
-<tr>
-<td valign="top" width="48%"><img src="./avi-ascii.svg" width="100%" alt="Kaidrix monochrome terminal avatar" /></td>
-<td valign="top" width="52%"><img src="./wordmark.svg" width="100%" alt="KAIDRIX 3D ASCII wordmark" /></td>
-</tr>
-</table>
-
-<br>
+<img src="./avi-ascii.svg" width="100%" alt="Kaidrix terminal avatar" />
 
 ### `kaidrix306@github ~ $ contributions`
 
-<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap" />
+<img src="./contrib-heatmap.svg" width="100%" alt="Animated GitHub contribution heatmap" />
 
 > Contribution art is refreshed automatically by GitHub Actions.
 
@@ -33,12 +20,7 @@ kaidrix306@github ~ $ status
 
 ### `kaidrix306@github ~ $ stack`
 
-```text
-WEB          ████████████████████
-AUTOMATION   ██████████████████░░
-BOTS         █████████████████░░░
-TOOLS        ████████████████░░░░
-```
+**WEB** · **AUTOMATION** · **BOTS** · **TOOLS**
 
 <sub>Built with self-hosted SVG art, Python generators, and GitHub Actions.</sub>
 
